@@ -1,10 +1,9 @@
 # ICS 212
-## Lab - Week 4
+## Homework - Week 3
 
-# Conditional Branching
 
 ### Assignment:
-- Update admission.c and parity.c following homework assignment description provided in LabAssignment_Week4.pdf (uploaded on Laulima)
+- Update leap.c and vowcons.c following homework assignment description provided in HomeworkAssignment_Week3.pdf (uploaded on Laulima)
 
 
 ### Steps to submit changes:
